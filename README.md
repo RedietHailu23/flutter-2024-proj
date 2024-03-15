@@ -10,7 +10,8 @@ ___
 Name|ID |
 |:--|:--|
 Rediet Hailu | UGR/2472/13
-fetiya | UGR//13
+Fethiya Safi  | UGR/7007/13
+Mussie Asamere | UGR/1034/12
 
 # Description of the Application
 ---
