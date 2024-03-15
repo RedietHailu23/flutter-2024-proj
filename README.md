@@ -42,10 +42,10 @@ Emplyees track their assigned projects.
 4. Delete - project
 ---
 # Employee
-1. create - progrssed project
-2. Read - progrssed project
-3. update -progrssed project
-4. delete -progrssed project
+1. create - Track project
+2. Read -Track project
+3. update - Track project
+4. delete - Track project
 ----
 
 
