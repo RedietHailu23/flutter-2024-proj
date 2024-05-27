@@ -1,9 +1,9 @@
 # Mobile Application Development Group Project
 ----
 Web Development Course Group Project 2023/24 G.C
-# Titlle
+# Title
 ___
-# Project Hub : Project display and Tracking Application
+# Project Hub : Project display and Application Application plateform.
 ----
 # Grouop Members
 ----
@@ -15,24 +15,24 @@ Mussie Asamere | UGR/1034/12
 
 # Description of the Application
 ---
-This hub is designed to display pending projects of a company that are in progress and employees see the projects and to where they are assigned and track their progress.
+This hub is designed to display projects of a company that are open form work and user of the mobile application can apply for the specified work.
 # How It Works
 ---
 1. Employee signup or added by the admin to access the application.
-2. Get access to the project.
-3. Track the project process to where they are assigned.
+2. Get access to the project relised by the company.
+3. Apply for the specified work.
 #  Features
 ---
 # Access to projects
 ---
 Projects created by the admin who is the project manager are displayed to employees.
-# project tracking
+# project Application
 ---
-Emplyees track their assigned projects.
+Users apply for the specified project.
 # Roles
 ---
 1. Project Manager : Assigns project to emplyees and give specific attribuits to be displayed in the application like (title, description, deadline, employees..)
-2. Emplyees: Acess the project assigned to the their department and track their progress on the accomplisment of the project.
+2. Users: apply for the project posted by the company. 
 # CRUD 
 ---
 # Project Manager
@@ -41,11 +41,11 @@ Emplyees track their assigned projects.
 3. Update - project
 4. Delete - project
 ---
-# Employee
-1. create - Track project
-2. Read -Track project
-3. update - Track project
-4. delete - Track project
+# User
+1. create - Application
+2. Read - Personal projects applied for work
+3. update - Application form
+4. delete - Application
 ----
 
 
