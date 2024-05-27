@@ -1,9 +1,9 @@
 # Mobile Application Development Group Project
 ----
-Web Development Course Group Project 2023/24 G.C
+Mobile Application Development Course Group Project 2023/24 G.C
 # Title
 ___
-# Project Hub : Project display and Application Application plateform.
+# Project Hub : Project display and Application for project plateform.
 ----
 # Grouop Members
 ----
@@ -25,13 +25,13 @@ This hub is designed to display projects of a company that are open form work an
 ---
 # Access to projects
 ---
-Projects created by the admin who is the project manager are displayed to employees.
+Projects created by the admin who is the project manager are displayed to Users.
 # project Application
 ---
-Users apply for the specified project.
+Users apply for the specified project to take over and to work on the projects.
 # Roles
 ---
-1. Project Manager : Assigns project to emplyees and give specific attribuits to be displayed in the application like (title, description, deadline, employees..)
+1. Project Manager : Assigns project to emplyees and give specific attribuits to be displayed in the application like (title, description, deadline, Language to be used for the project)
 2. Users: apply for the project posted by the company. 
 # CRUD 
 ---
